@@ -8,5 +8,4 @@ labels:
   - Learning
 ---
 
-Printing out "Hello World!" has been consisted through my programming in C++, Java, and Python. But quite recently, I have had the chance to finally        
-learn JavaScript for the first time. I have heard from many that it is quite similar to the language Java, and after learning the basics, I can see the similarities. 
+Printing out "Hello World!" has been consisted through my programming in C++, Java, and Python. But quite recently, I have had the chance to finally        learn JavaScript for the first time. I have heard from many that it is quite similar to the language Java, and after learning the basics, I can see the similarities. 
