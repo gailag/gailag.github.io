@@ -65,11 +65,31 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu HI",
       "area": "Computer Science (expected Fall, 2022)",
       "studyType": "B.S.",
-      "startDate": "2019-09-01",
+      "startDate": "3",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Maui College, Maui HI",
+      "area": "Natural Science, Information & Technology concentration",
+      "studyType": "A.S.",
+      "startDate": "",
+      "endDate": "May 2020",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Maui College, Maui HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "",
+      "endDate": "May 2020",
       "gpa": "",
       "courses": [
       ]
