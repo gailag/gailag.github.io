@@ -10,7 +10,7 @@ labels:
 
 ## JavaScript
 
-<img class="ui medium right floated rounded image" src="../images/jslogo.png"
+<img class="ui medium right floated rounded image" src="../images/jslogo.png">
      
 Printing out "Hello World!" has consisted through my programming in C++, Java, and Python. But quite recently, I have had the chance to finally        learn JavaScript for the first time. I have heard from many that it is quite similar to the language Java, and after learning the basics, I can see the similarities. FreeCodeCamp has been a helpful environment in learning the basics of the language. I was dreading the fact that it consisted of 113 parts to complete, but I've found each of them so helpful in understanding what goes behind every test run. I was so nervous about my lack of skills in programming, and the sections that the site has provided was really helpful in building my knowledge about the language. I tend to forget things easily though, so I'm planning on brushing up those 113 parts again, along with the ES6, until I can feel confident in writing the language. 
 
