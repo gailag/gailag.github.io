@@ -19,3 +19,7 @@ Printing out "Hello World!" has consisted through my programming in C++, Java, a
 <img class="ui medium left floated rounded image" src="../images/overwhelming.jpeg">
 
 The Workout of the Day (WOD) provided in my Software Engineering I class has been nothing but overwhelming to me. The purpose of the WOD itself is to asess us with how well we learned the module that was taught the week of, and how we can apply it to different problems. The time limit that the WOD has is what makes it overwhelming, as I am pressured to come up with a solution within a time frame. Given that I am still a beginner, it takes me a while to think of an approach in coming up with a solution. As overwhelming as it can be, I can see a long term effectiveness into it that I can use in the future. Using such method can help me prepare for my technical interviews, as well as building skills as to what the tech industry expects in an candidate. For now, I hope my feeling of being overwhelemed diminishes the more I am exposed to these WOD. I can do it!  
+
+
+
+
