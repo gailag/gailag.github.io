@@ -4,7 +4,7 @@ type: project
 published: true 
 image: images/naleo.jpeg
 title: Na Leo Event Flyer
-permalink: projects/micromouse
+permalink: projects/naleo
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-01
 labels:
