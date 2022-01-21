@@ -4,7 +4,7 @@ type: project
 published: false 
 image: images/coronavirus.png
 title: COVID Timed Series Data
-permalink: projects/micromouse
+permalink: projects/timedseriesdata
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-01
 labels:
