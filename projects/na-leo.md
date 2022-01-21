@@ -11,7 +11,7 @@ labels:
   - Graphic Design
   - Adobe
   - Web Content
-summary: My time in Na Leo as a graphic designer has...
+summary: My time in Na Leo as a graphic designer provided me an opportunity to be as creative as I want. 
 ---
 ## Graphic Designing
 During my employment as a graphic designer for UH Maui College's Literary Review, Na Leo, I had the chance to create a number of fun and exciting projects. The leniency that my employer provided at the time has allowed me to be as creative as I wanted. It was as if a blank canvas was handed to me, to which I'm told I can do whatever I want with it. During that time, I had an obsession with Adobe softwares, particularly in Illustrator and InDesign. I would even make a board on pinterest accumulating ideas and inspirations as to what my next design would look like. I had so much fun being a graphic designer that it didn't even feel like a job.
