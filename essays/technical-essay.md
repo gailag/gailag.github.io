@@ -10,7 +10,7 @@ labels:
 
 ## Becoming a SWE
 
-<img class="ui medium middle floated rounded image" src="../images/swe.jpeg">
+<img class="ui medium left floated rounded image" src="../images/swe.jpeg">
 
 When I changed my major from Business to Computer Science four years ago, I wasn't sure if I was doing the right decision. I was questioning myself if I was smart enough to have the capability to develop programs. I was going through identity crisis at the time, and I thought changing my major to Computer Science was just a temporary placement for another major that I was going to change into. I thought it was going to be a phase, but here I am four years later still majored in Computer Science. What made me doubtful about this major initially was the fact that I didn't really know much about Computer Science. I wasn't fully aware in the capabilities of what a Computer Science degree can provide. Studying Computer Science is like walking into a playroom filled with lego blocks, and you can build whatever your heart desires. 
 
