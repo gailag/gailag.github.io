@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false 
+published: true 
 image: images/operations.jpg
 title: Math Game
 permalink: projects/mathgame
