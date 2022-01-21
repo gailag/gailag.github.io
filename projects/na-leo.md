@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true 
+published:  
 image: images/naleo.jpeg
 title: Na Leo Event Flyer
 permalink: projects/micromouse
