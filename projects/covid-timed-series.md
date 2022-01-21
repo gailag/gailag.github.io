@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true 
-image: images/coronavirus.png
+image: images/virus.jpeg
 title: COVID Timed Series Data
 permalink: projects/timedseriesdata
 # All dates must be YYYY-MM-DD format!
