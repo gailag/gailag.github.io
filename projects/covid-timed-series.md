@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false 
+published: true 
 image: images/coronavirus.png
 title: COVID Timed Series Data
 permalink: projects/timedseriesdata
