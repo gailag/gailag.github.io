@@ -18,7 +18,7 @@ During my employment as a graphic designer for UH Maui College's Literary Review
 
 ## Event Flyers & Thumbnails
 
-<img class="ui medium left floated rounded image" src="../images/naleoflyer.jpeg">
+<img class="ui medium left floated rounded image" src="../images/naleoflyer.jpg">
 
 Flyers and posts thumbnails were things that I mostly created for Na Leo. One particular project that I really enjoyed creating was a flyer for an event that the Na Leo team hosted. The event consisted of showcasing an accumulation of the number of art submissions submitted by students since the beginning of the school year. Planning, marketing, and estimated budgeting was intricately thought out by the Na Leo team in order to make the event succesful as possible. I remember creating so many drafts with the event flyer, consisting of getting multiple adjustment requests from my team in order to make a great impression on whoever sees it. The image in this post is the final draft of the flyer that I end up creating. I create a 3D-like theme for the center piece with the intent of making it eye catching. Creating this flyer was so stresful given the amount of pressure and expectation that I was getting from my team. Ultimately though, I end up creating something that I am proud of up until to this day.
 
