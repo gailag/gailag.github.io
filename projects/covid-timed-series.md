@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true 
+published: false 
 image: images/coronavirus.png
 title: COVID Timed Series Data
 permalink: projects/micromouse
