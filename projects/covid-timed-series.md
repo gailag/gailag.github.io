@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-published: false 
-image: images/naleo.jpeg
+published: true 
+image: images/coronavirus.png
 title: COVID Timed Series Data
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -20,12 +20,13 @@ Over Fall semester of 2020, I took up on taking an Intro to Data Science at Maui
 
 
 ## How I did it
+
+<img class="ui medium left floated rounded image" src="../images/covid-timed-series.jpeg">
+
 Through John Hopkins' repository on GitHub, I acquired the data of the number of cases there is. Using Python, I went through the process of cleaning and minimizing the data to fit the criteria that I only need in the project. I then decided to incorporate geopandas to create a geospatial data that would make the visuals easy to comprehend as possible. With it, you can determine the difference in the cases for each region.
 
 ## What I came out of it
 Developing a timed series data through Python was really fun. It was my first time using the language, and I picked up the language after numerous Youtube tutorials and hundreds of questions to my professor. I think I was particularly so interested in creating the timed series data because we were conducting a study that is occuring at the present time. And in doing so, I felt as if I became more knowldgeable with the Covid cases. It made me feel reassured, because I was able to make predictions based on the data. Having acquired the knowledge ultimately helped me with my anxiety from Covid.  
-
-<img class="ui medium left floated rounded image" src="../images/naleoflyer.jpg">
 
 
 
