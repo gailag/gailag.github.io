@@ -29,4 +29,4 @@ Through John Hopkins' repository on GitHub, I acquired the data of the number of
 Developing a timed series data through Python was really fun. It was my first time using the language, and I picked up the language after numerous Youtube tutorials and hundreds of questions to my professor. I think I was particularly so interested in creating the timed series data because we were conducting a study that is occuring at the present time. And in doing so, I felt as if I became more knowldgeable with the Covid cases. It made me feel reassured, because I was able to make predictions based on the data. Having acquired the knowledge ultimately helped me with my anxiety from Covid.  
 
 
-
+The repository that I used is from [John Hopkins CSSE](https://github.com/CSSEGISandData).
