@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true 
-image: images/operations.jpg
+image: images/math_operations.png
 title: Math Game
 permalink: projects/mathgame
 # All dates must be YYYY-MM-DD format!
