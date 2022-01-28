@@ -30,7 +30,7 @@ labels:
 
   It is inevitable to encounter posts that seem to be irrelevant from the platform it is posted in. This example exhibits the 'not so smart way' to ask a question. By Eric's suggestion as described above, [this example](https://stackoverflow.com/questions/3527174/what-is-a-hack?noredirect=1&lq=1) exhibits how it is posted to an off-topic forum and an 'elementary' type of question. As a result, the question is flagged as 'Closed' on the platform as it is not relevant to the type of questions that should be asked. 
   
- ## <img class="ui image" src="../images/not_so_smart_question.jpg">
+ <img class="ui image" src="../images/not_so_smart_question.jpg">
   
   
   
