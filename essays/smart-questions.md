@@ -22,7 +22,7 @@ labels:
   
   The best way to curate a smart question is to provide a specific description of what you are trying to tackle. Doing so can provide people a general idea of what you are specifically trying to get to. Along with that, it is also a best practice to provide a description of the different approaches you've already tried doing. That way, people don't provide an approach you've already done. One example of a smart curated question is [this](https://stackoverflow.com/questions/64791035/cant-run-jupyter-notebook-with-python-3-9-env) issue that deals with not being able to run a software through a specific environment. The subject line already provides a concise yet specific problem that the person is encountering. The post delves into the specifity of the different approaches they've already tried doing, and provided the the type of errors presented.  
   
-##  <img class="ui image" src="../images/smart_question.jpg">
+##  <img class="ui image" src="../images/smart_question.jpg"> 
   
   
 
