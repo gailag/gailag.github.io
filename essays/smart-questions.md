@@ -28,5 +28,9 @@ labels:
   
 ## Questions, Questions, Questions
 
+  Although there is no such thing as dumb questions, questions can be easily classified into two categories: the 'Smart Way' and the 'Not So Smart Way'. A smart question has well thought out elements such as providing an explanation of the problem, the solutions that have been tried, and what type of end goal they are trying to obtain. Questions that have this level of detail does not waste anyone's time and instead, creates a specificty needed to be answered quickly. So the next time you need help on a technical problem, consider curating your question into a 'Smart Way'. 
+  
+  
+  
   
 
