@@ -13,7 +13,7 @@ labels:
 
 *"When you're looking at a cup, which part do you think should be the cleanest?"* is a question that my TA Branden recently shared with us related to coding standards. *"No matter how great the physical aspects of a cup may be, it's more important when it's clean enough to drink."* He compares this idea with web applications -- that no matter how impressive and pretty a website might look like, it's rendered useless when it doesn't work the way it's supposed to. As a programmer, it's always a best practice to have a clean program in order to minimize the amount of errors that may arise in the future.
 
-### ESLint
+## ESLint
 
 <img class="ui medium right floated rounded image" src="../images/eslint-logo.jpg">
 
@@ -21,7 +21,7 @@ ESLint is a static code analysis tool that detects error patterns in a JavaScrip
 
 I've come to realize that seeing a green checkmark has become much more rewarding with ESLint. A green checkmark signifies that you've met all the satisfied requirements that ESLint expects -- that the code is clean. The additional expectations that ESLint has has put much more value and appreciation into the work that I've put into, because not only it confirms that it runs, but it also confirms that the code is clean.
 
-#### An investment
+## An investment
 
 *"Slowly is the fastest way to get where you want to be." -Betty Goedhart*
 
