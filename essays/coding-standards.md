@@ -15,8 +15,6 @@ labels:
 
 ## ESLint
 
-<img class="ui medium left floated rounded image" src="../images/eslint-logo.jpg">
-
 <img class="ui medium right floated rounded image" src="../images/eslint-logo.jpg">
 
 ESLint is a static code analysis tool that detects error patterns in a JavaScript code. I recently got to experience using ESLint in my Software Engineering class and I thought it was really helpful in keeping my code clean. It quickly detects any error patterns that I have typed in my code, and further tells me what the error is about. The utilization of this tool has made me realize how messy my code can be. ESLint is so meticulous about the number of spacing, the number of lines, and even the type of keywords used. A constant increase in the number of errors makes me agitated whenever I build my code. But seeing the errors is also reassuring in a way that confirms that ESLint is indeed working. ESLint reminds me so much of what a mother is. They always keep you on your toes, making sure that you are not doing any bad things. They only want you to do the right proper things. And essentially, such discipline will help you grow as an adult. Just like ESLint
