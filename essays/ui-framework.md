@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks: the makeup of web developing
+title: UI Frameworks, the makeup of web developing
 date: 2022-02-24
 labels:
   - Front End
