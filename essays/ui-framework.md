@@ -15,6 +15,12 @@ Front-end requires developing websites that are user-interactive and eye appeali
 
 Semantic UI is the first UI Framework I have used when designing a website. I was completely oblivious to its existence prior to my class' introduction. I thought modern existing websites were merely developed from raw HTML and CSS alone. I was completely amazed with the power of UI Frameworks. It instantly made my websites much more appealing from just the implementation of ui classes.
 
+Without Semantic UI:
+<img class="ui image" src="../images/pre-semantic-ui.png" width=30px;> 
+
+With Semantic UI:
+<img class="ui image" src="../images/post-semantic-ui.png" width=30px;> 
+
 ## Simplicity
 Transforming modern-like websites was much more easier than I anticipated. I thought it required an extensive amount of code in order to curate a non-outdated design. Through Semantic UI, I just had to wrap my code around <div> class="ui..."</div> in order to do so. How easy, right?
 
