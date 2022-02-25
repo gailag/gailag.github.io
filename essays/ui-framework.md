@@ -17,11 +17,11 @@ Semantic UI is the first UI Framework I have used when designing a website. I wa
 
 Without Semantic UI:
 
-<img class="ui image" src="../images/pre-semantic-ui.png" width=800px;> 
+<img class="ui image" src="../images/pre-semantic-ui.png" width="800px"> 
 
 With Semantic UI:
 
-<img class="ui image" src="../images/post-semantic-ui.png" width=800px;> 
+<img class="ui image" src="../images/post-semantic-ui.png" width="800px"> 
 
 ## Simplicity
 Transforming modern-like websites was much more easier than I anticipated. I thought it required an extensive amount of code in order to curate a non-outdated design. Through Semantic UI, I just had to wrap my code around <div> class="ui..."</div> in order to do so. How easy, right?
