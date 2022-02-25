@@ -21,7 +21,9 @@ Semantic UI is the first UI Framework I have used when designing a website. I wa
 <img class="ui image" src="../images/pre-semantic-ui.png" width="800px"> 
 
 
+
 *With Semantic UI:*
+
 
 <img class="ui image" src="../images/post-semantic-ui.png" width="800px"> 
 
