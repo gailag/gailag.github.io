@@ -24,6 +24,6 @@ With Semantic UI:
 <img class="ui image" src="../images/post-semantic-ui.png" width="800px"> 
 
 ## Simplicity
-Transforming modern-like websites was much more easier than I anticipated. I thought it required an extensive amount of code in order to curate a non-outdated design. Through Semantic UI, I just had to wrap my code around <div> class="ui..."</div> in order to do so. How easy, right?
+Transforming modern-like websites was much more easier than I anticipated. I thought it required an extensive amount of code in order to curate a non-outdated design. Through Semantic UI, I just had to wrap my code around ```<div> class="ui..."</div>``` in order to do so. How easy, right?
 
 Recreating websites with Semantic UI has especially been really fun for me. The ability to develop web designs similar to current online platforms is so rewarding. Makes me realize what a great skill it truly is to know how to develop a website that not only is functional, but pretty as well. It is motivating to learn and improve on these skills, and be able to present them to others. Maybe I'll be able to develop my own cool website someday. Stay tuned! 
