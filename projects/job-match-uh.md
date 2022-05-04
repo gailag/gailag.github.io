@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image:
+image: images/uh-logo.png
 title: Job Match'UH
 permalink: projects/jobmatchuh
 # All dates must be YYYY-MM-DD format!
@@ -13,6 +13,6 @@ labels:
   - Meteor
 summary: A website that connects UH students and companies for job opportunities.
 ---
-## Job Match'UH
+## Job Match UH
 
 test
