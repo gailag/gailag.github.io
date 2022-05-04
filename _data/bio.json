@@ -97,6 +97,30 @@
   ],
   "work": [
     {
+      "company": "UH Manoa Information Technology Center",
+      "position": "Computer Lab Student Assistant",
+      "website": "",
+      "startDate": "2022-02-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Provide assistance to ITS computer lab users",
+        "Troubleshoot customer problems with ITS supported software"
+      ]
+    },
+    {
+      "company": "UH Manoa Hacking for Defense - DoD",
+      "position": "Project Manager Intern",
+      "website": "",
+      "startDate": "2022-01-10",
+      "endDate": "2022-05-03",
+      "summary": "",
+      "highlights": [
+        "Worked on a semester long-project for DoD in identifying solutions for sustaining battery powered devices utilized in long operated missions",
+        "Conducted interviews with clients and stakeholder to take detailed ordering briefs and clarify specific requirements in each phase of the project"
+      ]
+    },
+    {
       "company": "Ululani's Hawaiian Shave Ice",
       "position": "Team Lead",
       "website": "",
