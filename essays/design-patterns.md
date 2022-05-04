@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui large centered image" src="../images/lego-blocks.jpeg">
+<img class="ui large centered image" src="../images/legoblocks.jpeg">
 
 ## Design Patterns
 Initially, I had the impression that software design pattern refers to the visualization of an application. The word *design* had me perceiving that it was all about making an application pretty and pleasing to the eye. Turns out, design pattern refers to the use of repeatable solutions implemented for different situations within an application. Simply put, design patterns is like a template -- template helps keep things uniformed, efficient, and functional throughout.
