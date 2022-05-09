@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/uh-logo.png
+image: images/virus.jpeg
 title: Job Match UH
 permalink: projects/jobmatchuh
 # All dates must be YYYY-MM-DD format!
