@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: images/virus.jpeg
 title: Job Match UH
 permalink: projects/jobmatchuh
