@@ -19,11 +19,11 @@ During the first year of the pandemic, it was a common practice to go on search 
 Over Fall semester of 2020, I took up on taking an Intro to Data Science at Maui College for fun. I surprisingly enjoyed the class more than I expected, that it became the foundation to my curiosity in the Data Science field. Given the situation that we were in, the professor suggested that we make a project that tracks the number of Covid cases in our desired locations. Due to my anxiety, I was curious with the amount of cases there is in the United States, and even in other countries. I was curious as to which country was doing bad, and which one was doing good.
 
 
-## How I did it
+## Developing the program
 
 <img class="ui medium left floated rounded image" src="../images/covid-timed-series.jpeg">
 
-Through John Hopkins' repository on GitHub, I acquired the data of the number of cases there is. Using Python, I went through the process of cleaning and minimizing the data to fit the criteria that I only need in the project. I then decided to incorporate geopandas to create a geospatial data that would make the visuals easy to comprehend as possible. With it, you can determine the difference in the cases for each region.
+Through John Hopkins' repository on GitHub, I acquired the data of the number of cases there was in United States. Using Python, I went through the process of cleaning and minimizing the data to fit the criteria that I only need in the project. I then decided to incorporate geopandas to create a geospatial data that would make the visuals easy to comprehend as possible. With it, you can determine the difference in the cases for each region.
 
 ## What I came out of it
 Developing a timed series data through Python was really fun. It was my first time using the language, and I picked up the language after numerous Youtube tutorials and hundreds of questions to my professor. I think I was particularly so interested in creating the timed series data because we were conducting a study that is occuring at the present time. And in doing so, I felt as if I became more knowledgeable with the Covid cases. It made me feel reassured, because I was able to make predictions based on the data. Having acquired the knowledge ultimately helped me with my anxiety from Covid.  
