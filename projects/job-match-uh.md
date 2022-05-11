@@ -13,6 +13,9 @@ labels:
   - Meteor
 summary: A website that connects UH students and companies for job opportunities.
 ---
+
+<img class="ui large centered image" src="../images/landing-final.png">
+
 ## Job Match UH
 [Job Match'UH](https://job-match-uh.github.io/) is a web application that I built along with four other talented computer science classmates, [Eda](https://www.linkedin.com/in/edalaine-cadiena-3a93401ba/), [Michelle](https://www.linkedin.com/in/michelle-leano-75487222a/), [Larissa](https://www.linkedin.com/in/larissa-tsai/), and [Cameron](https://www.linkedin.com/in/cameron-arakaki-2a775322a/) this Spring 2022. Ideally built to cater for the UH community, Job Match'UH is a platform that allows UH students and companies to connect with each other for job opportunities. Students who have interests as similar to a company's are able to match with one another, in which they would have an access to see each other's profile. As difficult as it can be when it comes to job-seeking, our team created Job Match'UH to provide an efficient platform for UH students to look for jobs, so as for companies to recruit UH students.
 
