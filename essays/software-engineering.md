@@ -9,6 +9,8 @@ labels:
   - Learning
 ---
 
+<img class="ui large centered image" src="../images/puzzle.png">
+
 ## Software Engineer
 Attending a Software Engineer class was once a nerve wracking experience. During the first two months of the semester, I used to have an anxiety before the Thursday class because of the in-class WOD. As mentioned in my essay, ["Hello JS!"](https://gailag.github.io/essays/hello-js.html), Workout of the day, or WOD for short, is a weekly in-class timed coding exercise that assesses us with how well we learned the module taught the week of and how well we can apply it to different problems. I was consecutively failing WOD after WOD during those two months, and my anxiety kept getting higher. But through persistency, practice, and a constant attendance to my TA's office hours, I was able to finally accomplish a WOD exercise. Overtime, my Thursday anxiety diminished to the point where rather than feeling nervous, I felt confident doing a WOD.
 
